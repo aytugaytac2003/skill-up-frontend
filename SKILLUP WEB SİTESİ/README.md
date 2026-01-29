@@ -65,5 +65,5 @@ skill-up
 
 ## Author
 Ünal Aytuğ Aytaç  
-Managment Information Systems (YBS) student  
+Managment Information Systems (YBS) student 
 
